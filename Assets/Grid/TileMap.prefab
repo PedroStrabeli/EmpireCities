@@ -108,5 +108,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sizeX: 100
-  sizeZ: 50
-  tileSize: 2
+  sizeZ: 100
+  tileSize: 1
