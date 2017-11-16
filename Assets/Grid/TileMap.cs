@@ -9,8 +9,8 @@ using UnityEngine;
 // If any of those don't exist, will be created in the model
 
 public class TileMap : MonoBehaviour {
-	public int sizeX = 100;
-	public int sizeZ = 50;
+	public int sizeX = 8;
+	public int sizeZ = 8;
 	public float tileSize = 1.0f;
 	// Use this for initialization
 	void Start () {
