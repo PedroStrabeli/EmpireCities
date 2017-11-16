@@ -13,6 +13,17 @@ public class TileMapMouse : MonoBehaviour {
 		_tilemap = GetComponent<TileMap> ();
 	}
 		
+	void OnGUI () {
+		if (Input.GetMouseButtonUp (0)) {
+			
+			Vector3 mousepos = Input.mousePosition;
+			Debug.Log ("pressed "+mousepos.x+" "+mousepos.y+" "+mousepos.z);
+			//GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+			//cube.transform.position = new Vector3(mousepos.x, mousepos.y, mousepos.z);
+			//GUI.Button(new Rect(mousepos.x (+25), mousepos.y (-15), 50, 30), "Click") ;
+
+		}
+	}
 	// Update is called once per frame
 	void Update () {
 		Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -31,8 +42,6 @@ public class TileMapMouse : MonoBehaviour {
 		} else {
 			// make cube disappear
 		}
-		if (Input.GetMouseButtonUp (0)) {
-			Debug.Log ("pressed");
-		}
+
 	}
 }
