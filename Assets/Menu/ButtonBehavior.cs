@@ -36,7 +36,7 @@ public class ButtonBehavior : MonoBehaviour {
 	}*/
 
 	public void BuildHouse () {
-		Debug.Log ("House Built");	
+		Debug.Log ("House Built");
 	}
 
 	public void BuildApto () {
@@ -48,7 +48,14 @@ public class ButtonBehavior : MonoBehaviour {
 	}
 
 	public void BuildTower () {
-		Debug.Log ("Tower Built");	
+		Debug.Log ("Tower Built");
+		GameObject.FindGameObjectWithTag("mytag");
+		GameObject instance = Instantiate()
+
+		while (!Input.OnMouseDown()) {
+			Vector3 mousepos = Input.mousePosition;
+
+		}
 	}
 
 	public void BuildBarracks () {
