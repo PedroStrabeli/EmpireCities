@@ -50,12 +50,10 @@ public class ButtonBehavior : MonoBehaviour {
 	public void BuildTower () {
 		Debug.Log ("Tower Built");
 		GameObject.FindGameObjectWithTag("mytag");
-		GameObject instance = Instantiate()
-
-		while (!Input.OnMouseDown()) {
-			Vector3 mousepos = Input.mousePosition;
-
-		}
+//		GameObject instance = Instantiate();
+		// while (!Input.OnMouseDown()) {
+		//	Vector3 mousepos = Input.mousePosition;
+		// } 
 	}
 
 	public void BuildBarracks () {
