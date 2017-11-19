@@ -37,45 +37,69 @@ public class ButtonBehavior : MonoBehaviour {
 
 	public void BuildHouse () {
 		Debug.Log ("House Built");
+		BuildBuilding("houselvl1");
 	}
 
 	public void BuildApto () {
-		Debug.Log ("Apto Built");	
+		Debug.Log ("Apto Built");
+		BuildBuilding("houselvl2");
 	}
 
 	public void BuildCondo () {
 		Debug.Log ("Condo Built");	
+		BuildBuilding("houselvl3");
 	}
 
 	public void BuildTower () {
 		Debug.Log ("Tower Built");
-		GameObject.FindGameObjectWithTag("mytag");
-		GameObject instance = Instantiate()
-
-		while (!Input.OnMouseDown()) {
-			Vector3 mousepos = Input.mousePosition;
-
-		}
+		BuildBuilding("torre");
 	}
 
 	public void BuildBarracks () {
-		Debug.Log ("Barracks Built");	
+		Debug.Log ("Barracks Built");
+		BuildBuilding("torre");
 	}
 
 	public void BuildCastle () {
-		Debug.Log ("Castle Built");	
+		Debug.Log ("Castle Built");
+		BuildBuilding("torre");
 	}
 
 	public void BuildParish () {
-		Debug.Log ("Parish Built");	
+		Debug.Log ("Parish Built");
+		BuildBuilding("churchlvl1");
 	}
 
 	public void BuildChurch () {
-		Debug.Log ("Church Built");	
+		Debug.Log ("Church Built");
+		BuildBuilding("churchlvl2");
 	}
 
 	public void BuildCathedral () {
-		Debug.Log ("Castle Built");	
+		Debug.Log ("Castle Built");
+		BuildBuilding("churchlvl3");
 	}
 
+	public void BuildBuilding(String tag){
+		GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);	
+		Vector3 mousepos = Input.mousePosition;
+
+		if (Input.GetMouseButtonUp (0)) {
+			//GameObject building = new GameObject();
+			//cube.AddComponent.<>();
+			//GameObject building = GameObject.FindGameObjectWithTag(tag);
+			//Image img = building.AddComponent<Image>();
+			//img.sprite = Resource.Load("torre", typeof(Sprite)) as Sprite; 
+			//cube.transform.localScale = Vector3(1, 1, 1);
+			cube.transform.position = new Vector3(mousepos.x, mousepos.y, mousepos.z);
+		}
+		setBuildingInGrid (cube, mousepos);
+	}
+
+	public void setBuildingInGrid(GameObject gameobj, Vector3 mousepos) {
+	
+		gameobj.transform.position = new Vector3(mousepos.x, mousepos.y, mousepos.z);
+	}
 }
+
+	
