@@ -18,8 +18,8 @@ public class TileMapMouse : MonoBehaviour {
 			
 			Vector3 mousepos = Input.mousePosition;
 			Debug.Log ("pressed "+mousepos.x+" "+mousepos.y+" "+mousepos.z);
-			GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
-			cube.transform.position = new Vector3(mousepos.x, mousepos.y, mousepos.z);
+			//GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+			//cube.transform.position = new Vector3(mousepos.x, mousepos.y, mousepos.z);
 			//GUI.Button(new Rect(mousepos.x (+25), mousepos.y (-15), 50, 30), "Click") ;
 
 		}

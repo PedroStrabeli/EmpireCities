@@ -5,12 +5,24 @@ using UnityEngine.UI;
 using UnityEngine;
 
 public class ButtonBehavior : MonoBehaviour {
-	/*public GameObject prefabButton;
-	public RectTransform ParentPanel;
-	List<Action> funcList = new List<Action>();
-	List<String> nameList = new List<String>();
- 	*/
+	public GameObject prefabButton;
+	//public RectTransform ParentPanel;
+	//List<Action> funcList = new List<Action>();
+	//List<String> nameList = new List<String>();
+
+	public Transform _panel;
 	/*void Start() {
+		RectTransform panelRectTransform = _panel.GetComponent<RectTransform>();
+
+		for (int i = 0; i < 9; i++) { // add components 
+			GameObject buildButton = (GameObject)Instantiate(prefabButton);
+			buildButton.transform.SetParent (ParentPanel);
+			buildButton.transform.localScale = new Vector3 (1, 1, 1);
+		} 
+
+			panelRectTransform.sizeDelta.Set((float)xPos + 10, panelRectTransform.sizeDelta.y); 
+		// xPos is the placement of the components.
+
 		funcList.Add (() => BuildHouse ());
 		funcList.Add (() => BuildApto ());
 		funcList.Add (() => BuildCondo ());
@@ -21,13 +33,6 @@ public class ButtonBehavior : MonoBehaviour {
 		funcList.Add (() => BuildChurch ());
 		funcList.Add (() => BuildCathedral ());
 
-
-
-		for (int i = 0; i < 9; i++) {
-			GameObject buildButton = (GameObject)Instantiate(prefabButton);
-			buildButton.transform.SetParent (ParentPanel);
-			buildButton.transform.localScale = new Vector3 (1, 1, 1);
-		}
 	}*/
 
 	public void BuildHouse () {
