@@ -6,7 +6,8 @@ public class BuildingPlacement: MonoBehaviour {
 
 	[SerializeField]
 	private GameObject placeablePrefab;
-
+	[SerializeField]
+	private GameObject[] placeablePrefabs;
 	[SerializeField]
 	private KeyCode hotKey = KeyCode.A;
 
@@ -42,6 +43,15 @@ public class BuildingPlacement: MonoBehaviour {
 			else {
 				Destroy(placeableObject);;
 			}
+		}
+	}
+
+	public void HandleBuild(int i) {
+		if (placeableObject == null) {
+			placeableObject = Instantiate (placeablePrefabs[i]);
+		}
+		else {
+			Destroy(placeableObject);;
 		}
 	}
 
