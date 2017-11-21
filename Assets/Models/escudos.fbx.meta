@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 307f5d2f6b21e2c42a1e12ac40ed5b15
+timeCreated: 1511260229
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: barath
+    100002: Capa 02
+    100004: Capa 03
+    100006: Capa 04
+    100008: Capa 05
+    100010: ciervo
+    100012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F"
+    100014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2"
+    100016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    100018: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    100020: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    100022: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    100024: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    100026: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    100028: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    100030: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    100032: dragones
+    100034: //RootNode
+    100036: lannister
+    100038: leon
+    100040: lobo
+    100042: Objeto_1
+    100044: Objeto_1 1
+    100046: Objeto_1 2
+    100048: Objeto_1 3
+    100050: Objeto_1 4
+    100052: Objeto_1 5
+    100054: Objeto_1 6
+    100056: Objeto_2
+    100058: Objeto_3
+    100060: Objeto_4
+    100062: Objeto_4 1
+    100064: Objeto_4 2
+    100066: Objeto_4 3
+    100068: Objeto_4 4
+    100070: Objeto_4 5
+    100072: Objeto_4 6
+    100074: Objeto_5
+    100076: Objeto_5 1
+    100078: Objeto_5 2
+    100080: Objeto_5 3
+    100082: Objeto_5 4
+    100084: Objeto_5 5
+    100086: Objeto_5 6
+    100088: Objeto_6
+    100090: Objeto_6 1
+    100092: Objeto_6 2
+    100094: Objeto_6 3
+    100096: Objeto_6 4
+    100098: Objeto_6 5
+    100100: Objeto_6 6
+    100102: Predeterminada
+    100104: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    100106: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    100108: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    100110: solid Baratheon
+    100112: solid Baratheon_MeshPart0
+    100114: solid Baratheon_MeshPart1
+    100116: stark
+    100118: targ
+    400000: barath
+    400002: Capa 02
+    400004: Capa 03
+    400006: Capa 04
+    400008: Capa 05
+    400010: ciervo
+    400012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F"
+    400014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2"
+    400016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    400018: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    400020: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    400022: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    400024: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    400026: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    400028: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    400030: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    400032: dragones
+    400034: //RootNode
+    400036: lannister
+    400038: leon
+    400040: lobo
+    400042: Objeto_1
+    400044: Objeto_1 1
+    400046: Objeto_1 2
+    400048: Objeto_1 3
+    400050: Objeto_1 4
+    400052: Objeto_1 5
+    400054: Objeto_1 6
+    400056: Objeto_2
+    400058: Objeto_3
+    400060: Objeto_4
+    400062: Objeto_4 1
+    400064: Objeto_4 2
+    400066: Objeto_4 3
+    400068: Objeto_4 4
+    400070: Objeto_4 5
+    400072: Objeto_4 6
+    400074: Objeto_5
+    400076: Objeto_5 1
+    400078: Objeto_5 2
+    400080: Objeto_5 3
+    400082: Objeto_5 4
+    400084: Objeto_5 5
+    400086: Objeto_5 6
+    400088: Objeto_6
+    400090: Objeto_6 1
+    400092: Objeto_6 2
+    400094: Objeto_6 3
+    400096: Objeto_6 4
+    400098: Objeto_6 5
+    400100: Objeto_6 6
+    400102: Predeterminada
+    400104: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    400106: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    400108: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    400110: solid Baratheon
+    400112: solid Baratheon_MeshPart0
+    400114: solid Baratheon_MeshPart1
+    400116: stark
+    400118: targ
+    2300000: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2"
+    2300002: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    2300004: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    2300006: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    2300008: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    2300010: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    2300012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    2300014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    2300016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    2300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    2300020: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    2300022: solid Baratheon_MeshPart0
+    2300024: solid Baratheon_MeshPart1
+    3300000: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2"
+    3300002: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    3300004: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    3300006: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    3300008: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    3300010: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    3300012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    3300014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    3300016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    3300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    3300020: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    3300022: solid Baratheon_MeshPart0
+    3300024: solid Baratheon_MeshPart1
+    4300000: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2"
+    4300002: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    4300004: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    4300006: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    4300008: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    4300010: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    4300012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    4300014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    4300016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    4300018: solid Baratheon_MeshPart0
+    4300020: solid Baratheon_MeshPart1
+    4300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    4300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

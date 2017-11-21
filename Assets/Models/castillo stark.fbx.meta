@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 1a326c62f59f08d4da15e8ab8bdb4d8d
+timeCreated: 1511259620
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: barath
+    100002: Capa 01
+    100004: Capa 02
+    100006: Capa 03
+    100008: Capa 04
+    100010: Capa 05
+    100012: //RootNode
+    100014: CASTLE
+    100016: ciervo
+    100018: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F"
+    100020: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2"
+    100022: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart0"
+    100024: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart1"
+    100026: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart2"
+    100028: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart3"
+    100030: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart4"
+    100032: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart5"
+    100034: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart6"
+    100036: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart7"
+    100038: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    100040: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    100042: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    100044: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    100046: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    100048: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    100050: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    100052: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    100054: dragones
+    100056: lannister
+    100058: leon
+    100060: lobo
+    100062: Objeto_2
+    100064: Objeto_2 1
+    100066: Objeto_2 2
+    100068: Objeto_2 3
+    100070: Objeto_2 4
+    100072: Objeto_2 5
+    100074: Objeto_2 6
+    100076: Objeto_4
+    100078: Objeto_4 1
+    100080: Objeto_4 2
+    100082: Objeto_4 3
+    100084: Objeto_4 4
+    100086: Objeto_4 5
+    100088: Objeto_4 6
+    100090: Predeterminada
+    100092: stark
+    100094: targ
+    400000: barath
+    400002: Capa 01
+    400004: Capa 02
+    400006: Capa 03
+    400008: Capa 04
+    400010: Capa 05
+    400012: //RootNode
+    400014: CASTLE
+    400016: ciervo
+    400018: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F"
+    400020: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2"
+    400022: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart0"
+    400024: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart1"
+    400026: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart2"
+    400028: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart3"
+    400030: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart4"
+    400032: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart5"
+    400034: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart6"
+    400036: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart7"
+    400038: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    400040: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    400042: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    400044: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    400046: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    400048: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    400050: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    400052: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    400054: dragones
+    400056: lannister
+    400058: leon
+    400060: lobo
+    400062: Objeto_2
+    400064: Objeto_2 1
+    400066: Objeto_2 2
+    400068: Objeto_2 3
+    400070: Objeto_2 4
+    400072: Objeto_2 5
+    400074: Objeto_2 6
+    400076: Objeto_4
+    400078: Objeto_4 1
+    400080: Objeto_4 2
+    400082: Objeto_4 3
+    400084: Objeto_4 4
+    400086: Objeto_4 5
+    400088: Objeto_4 6
+    400090: Predeterminada
+    400092: stark
+    400094: targ
+    2300000: CASTLE
+    2300002: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart0"
+    2300004: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart1"
+    2300006: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart2"
+    2300008: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart3"
+    2300010: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart4"
+    2300012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart5"
+    2300014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart6"
+    2300016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart7"
+    2300018: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    2300020: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    2300022: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    2300024: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    2300026: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    2300028: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    2300030: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    2300032: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    3300000: CASTLE
+    3300002: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart0"
+    3300004: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart1"
+    3300006: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart2"
+    3300008: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart3"
+    3300010: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart4"
+    3300012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart5"
+    3300014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart6"
+    3300016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart7"
+    3300018: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    3300020: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    3300022: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    3300024: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    3300026: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    3300028: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    3300030: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    3300032: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    4300000: CASTLE
+    4300002: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart0"
+    4300004: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart1"
+    4300006: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart2"
+    4300008: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart3"
+    4300010: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart4"
+    4300012: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart5"
+    4300014: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart6"
+    4300016: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_MeshPart7"
+    4300018: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart0"
+    4300020: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart1"
+    4300022: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart2"
+    4300024: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart3"
+    4300026: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart4"
+    4300028: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart5"
+    4300030: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart6"
+    4300032: "COLOR=\x7F\x7F\x7F MATERIAL=\x7F\x7F\x7F \x7F\x7F\x7F \x7F\x7F\x7F_2_MeshPart7"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
