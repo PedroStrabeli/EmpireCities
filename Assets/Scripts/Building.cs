@@ -10,10 +10,12 @@ namespace Classes
 		string type;
 		int level;
 		GameObject instance;
+		public bool selectedByClick;
 
 		public Building (GameObject building, string type, int level) {
 			this.type = type;
 			this.level = level;
+			this.	selectedByClick = false;
 			instance = building;
 			switch (level) {
 			case 1:
@@ -27,6 +29,15 @@ namespace Classes
 			break;
 			}
 		}
+
+		public bool attack() {
+			if (this.type == "mil" && this.selectedByClick == true) {
+				return true;
+			} else
+				return false;
+		}
+
+
 	}
 }
 

@@ -29,7 +29,24 @@ public class GameManagerSingleton : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (Input.GetMouseButtonDown(0)) {
+			checkAttack();
+		}
+	}
+
+	public void checkAttack(){
+		if (true == true) {
+			Ray ray = Camera.main.ScreenPointToRay (Input.mousePosition);
+			RaycastHit hitInfo;
+			if (Physics.Raycast (ray, out hitInfo)) 
+			{
+				
+				//hitInfo.point;
+				//hitInfo.collider;
+				//selectedByClick = true;
+			}
+			//playerList [currentPlayer - 1].getbuildingColision();
+		}
 	}
 
 	public void endTurn() {

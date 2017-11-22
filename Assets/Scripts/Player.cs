@@ -61,6 +61,15 @@ namespace Classes
 			} else
 				return false;
 		}
+
+		//public List<Classes.Building> getbuildingColision(Ray ray, RaycastHit hitInfo){
+			//foreach (Building building in this.buildingList) {
+				//if (Physics.Raycast (ray, out hitInfo)) {
+				//	hitInfo.point;
+				//}
+			//}
+		//}
+
 	}
 }
 
