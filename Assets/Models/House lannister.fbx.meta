@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 63af11b660f5d4d47a2797eb79ac4a1a
+timeCreated: 1511390157
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: balcony
+    100002: barath
+    100004: barrels
+    100006: barrels_2
+    100008: boards
+    100010: boards_support
+    100012: Capa 02
+    100014: Capa 03
+    100016: Capa 04
+    100018: Capa 05
+    100020: chimneys
+    100022: chimneys_2
+    100024: ciervo
+    100026: cover_window
+    100028: doors
+    100030: dragones
+    100032: foundation
+    100034: gutters
+    100036: //RootNode
+    100038: lannister
+    100040: leon
+    100042: lobo
+    100044: Objeto_1
+    100046: Objeto_1 1
+    100048: Objeto_1 2
+    100050: Objeto_1 3
+    100052: Objeto_1 4
+    100054: Objeto_1 5
+    100056: Objeto_1 6
+    100058: Objeto_2
+    100060: Objeto_2 1
+    100062: Objeto_2 2
+    100064: Objeto_2 3
+    100066: Objeto_2 4
+    100068: Objeto_2 5
+    100070: Objeto_2 6
+    100072: parapets
+    100074: Predeterminada
+    100076: Predeterminado
+    100078: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    100080: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    100082: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    100084: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    100086: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    100088: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    100090: roof
+    100092: roof_MeshPart0
+    100094: roof_MeshPart1
+    100096: roof_MeshPart2
+    100098: roof_support
+    100100: stark
+    100102: targ
+    100104: walls
+    100106: window_roof
+    100108: window_roof_2
+    100110: windows
+    100112: windows_2
+    400000: balcony
+    400002: barath
+    400004: barrels
+    400006: barrels_2
+    400008: boards
+    400010: boards_support
+    400012: Capa 02
+    400014: Capa 03
+    400016: Capa 04
+    400018: Capa 05
+    400020: chimneys
+    400022: chimneys_2
+    400024: ciervo
+    400026: cover_window
+    400028: doors
+    400030: dragones
+    400032: foundation
+    400034: gutters
+    400036: //RootNode
+    400038: lannister
+    400040: leon
+    400042: lobo
+    400044: Objeto_1
+    400046: Objeto_1 1
+    400048: Objeto_1 2
+    400050: Objeto_1 3
+    400052: Objeto_1 4
+    400054: Objeto_1 5
+    400056: Objeto_1 6
+    400058: Objeto_2
+    400060: Objeto_2 1
+    400062: Objeto_2 2
+    400064: Objeto_2 3
+    400066: Objeto_2 4
+    400068: Objeto_2 5
+    400070: Objeto_2 6
+    400072: parapets
+    400074: Predeterminada
+    400076: Predeterminado
+    400078: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    400080: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    400082: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    400084: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    400086: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    400088: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    400090: roof
+    400092: roof_MeshPart0
+    400094: roof_MeshPart1
+    400096: roof_MeshPart2
+    400098: roof_support
+    400100: stark
+    400102: targ
+    400104: walls
+    400106: window_roof
+    400108: window_roof_2
+    400110: windows
+    400112: windows_2
+    2300000: balcony
+    2300002: barrels
+    2300004: barrels_2
+    2300006: boards
+    2300008: boards_support
+    2300010: chimneys
+    2300012: chimneys_2
+    2300014: cover_window
+    2300016: doors
+    2300018: foundation
+    2300020: gutters
+    2300022: parapets
+    2300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    2300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    2300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    2300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    2300032: roof_MeshPart0
+    2300034: roof_MeshPart1
+    2300036: roof_MeshPart2
+    2300038: roof_support
+    2300040: walls
+    2300042: window_roof
+    2300044: window_roof_2
+    2300046: windows
+    2300048: windows_2
+    3300000: balcony
+    3300002: barrels
+    3300004: barrels_2
+    3300006: boards
+    3300008: boards_support
+    3300010: chimneys
+    3300012: chimneys_2
+    3300014: cover_window
+    3300016: doors
+    3300018: foundation
+    3300020: gutters
+    3300022: parapets
+    3300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    3300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    3300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    3300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    3300032: roof_MeshPart0
+    3300034: roof_MeshPart1
+    3300036: roof_MeshPart2
+    3300038: roof_support
+    3300040: walls
+    3300042: window_roof
+    3300044: window_roof_2
+    3300046: windows
+    3300048: windows_2
+    4300000: roof_MeshPart0
+    4300002: roof_MeshPart1
+    4300004: roof_MeshPart2
+    4300006: gutters
+    4300008: barrels_2
+    4300010: barrels
+    4300012: balcony
+    4300014: cover_window
+    4300016: chimneys_2
+    4300018: chimneys
+    4300020: boards_support
+    4300022: boards
+    4300024: roof_support
+    4300026: foundation
+    4300028: doors
+    4300030: parapets
+    4300032: windows_2
+    4300034: windows
+    4300036: walls
+    4300038: window_roof_2
+    4300040: window_roof
+    4300042: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    4300044: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    4300046: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    4300048: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_10
+    second: {fileID: 2100000, guid: 4a3c86afcf5cd0c49b2cdf168c207e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_11
+    second: {fileID: 2100000, guid: af145ff1bd163774c9b266614f75a227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_12
+    second: {fileID: 2100000, guid: 5352a10bef85e3f43b5d4752aa7524fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_13
+    second: {fileID: 2100000, guid: 0c497386f33f6be4e84c53677e1bf2fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_14
+    second: {fileID: 2100000, guid: 280c6057cb1f11e4c94f9e52f883c959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_15
+    second: {fileID: 2100000, guid: 65a1a0fb81e182548ac8c15216d31c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_16
+    second: {fileID: 2100000, guid: 0e0d00aefdfe8ee48b2a34a29d5fb58f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_17
+    second: {fileID: 2100000, guid: 851662633c64e704f999054bb90b9e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_18
+    second: {fileID: 2100000, guid: ca4a7cae2b2198c43b82185fde9361b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_19
+    second: {fileID: 2100000, guid: dcadb22abd0b1dc42a5dd61ac1a751b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_20
+    second: {fileID: 2100000, guid: 2f3d6215bf8a62e419ff1d6fd9fc531f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_21
+    second: {fileID: 2100000, guid: d5798f37cce4856439044a67a63ee083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_3
+    second: {fileID: 2100000, guid: 3ff00d8a127dd0c40bbdfbd49eb65fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_4
+    second: {fileID: 2100000, guid: 38c010edf9e1a8642b07f75a9723e2af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_5
+    second: {fileID: 2100000, guid: 9aa9b368103067d48b52973e06bf2c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_6
+    second: {fileID: 2100000, guid: 01a8500e21aadcf4a888770742dcc255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_7
+    second: {fileID: 2100000, guid: 7f5c2e532778fe04db172ce091975ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_8
+    second: {fileID: 2100000, guid: 09053591b4b87db4994dfa26c2c25d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_9
+    second: {fileID: 2100000, guid: 09eefc591a959bf4da1c35a873a3606b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuevo material 014
+    second: {fileID: 2100000, guid: 86b1ddf890bcef246807637f3e2bcfce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

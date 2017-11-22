@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 76ccab02894c5464fb68f56f3e526ccb
+timeCreated: 1511386451
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: barath
+    100004: Capa 02
+    100006: Capa 03
+    100008: Capa 04
+    100010: Capa 05
+    100012: ciervo
+    100014: dragones
+    100016: lannister
+    100018: leon
+    100020: lobo
+    100022: Objeto_1
+    100024: Objeto_10
+    100026: Objeto_11
+    100028: Objeto_12
+    100030: Objeto_13
+    100032: Objeto_14
+    100034: Objeto_15
+    100036: Objeto_16
+    100038: Objeto_17
+    100040: Objeto_18
+    100042: Objeto_19
+    100044: Objeto_2
+    100046: Objeto_20
+    100048: Objeto_21
+    100050: Objeto_22
+    100052: Objeto_23
+    100054: Objeto_24
+    100056: Objeto_25
+    100058: Objeto_26
+    100060: Objeto_27
+    100062: Objeto_28
+    100064: Objeto_29
+    100066: Objeto_3
+    100068: Objeto_30
+    100070: Objeto_31
+    100072: Objeto_32
+    100074: Objeto_33
+    100076: Objeto_34
+    100078: Objeto_35
+    100080: Objeto_36
+    100082: Objeto_4
+    100084: Objeto_5
+    100086: Objeto_6
+    100088: Objeto_7
+    100090: Objeto_8
+    100092: Objeto_9
+    100094: Predeterminada
+    100096: Predeterminado
+    100098: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    100100: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    100102: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    100104: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    100106: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
+    100108: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    100110: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    100112: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4
+    100114: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    100116: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    100118: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5
+    100120: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    100122: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    100124: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6
+    100126: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    100128: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    100130: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    100132: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    100134: stark
+    100136: targ
+    400000: //RootNode
+    400002: barath
+    400004: Capa 02
+    400006: Capa 03
+    400008: Capa 04
+    400010: Capa 05
+    400012: ciervo
+    400014: dragones
+    400016: lannister
+    400018: leon
+    400020: lobo
+    400022: Objeto_1
+    400024: Objeto_10
+    400026: Objeto_11
+    400028: Objeto_12
+    400030: Objeto_13
+    400032: Objeto_14
+    400034: Objeto_15
+    400036: Objeto_16
+    400038: Objeto_17
+    400040: Objeto_18
+    400042: Objeto_19
+    400044: Objeto_2
+    400046: Objeto_20
+    400048: Objeto_21
+    400050: Objeto_22
+    400052: Objeto_23
+    400054: Objeto_24
+    400056: Objeto_25
+    400058: Objeto_26
+    400060: Objeto_27
+    400062: Objeto_28
+    400064: Objeto_29
+    400066: Objeto_3
+    400068: Objeto_30
+    400070: Objeto_31
+    400072: Objeto_32
+    400074: Objeto_33
+    400076: Objeto_34
+    400078: Objeto_35
+    400080: Objeto_36
+    400082: Objeto_4
+    400084: Objeto_5
+    400086: Objeto_6
+    400088: Objeto_7
+    400090: Objeto_8
+    400092: Objeto_9
+    400094: Predeterminada
+    400096: Predeterminado
+    400098: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    400100: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    400102: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    400104: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    400106: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
+    400108: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    400110: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    400112: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4
+    400114: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    400116: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    400118: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5
+    400120: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    400122: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    400124: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6
+    400126: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    400128: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    400130: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    400132: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    400134: stark
+    400136: targ
+    2300000: Objeto_1
+    2300002: Objeto_10
+    2300004: Objeto_11
+    2300006: Objeto_12
+    2300008: Objeto_13
+    2300010: Objeto_14
+    2300012: Objeto_15
+    2300014: Objeto_16
+    2300016: Objeto_17
+    2300018: Objeto_18
+    2300020: Objeto_19
+    2300022: Objeto_2
+    2300024: Objeto_20
+    2300026: Objeto_21
+    2300028: Objeto_22
+    2300030: Objeto_23
+    2300032: Objeto_24
+    2300034: Objeto_25
+    2300036: Objeto_26
+    2300038: Objeto_27
+    2300040: Objeto_28
+    2300042: Objeto_29
+    2300044: Objeto_3
+    2300046: Objeto_30
+    2300048: Objeto_31
+    2300050: Objeto_32
+    2300052: Objeto_33
+    2300054: Objeto_34
+    2300056: Objeto_35
+    2300058: Objeto_36
+    2300060: Objeto_4
+    2300062: Objeto_5
+    2300064: Objeto_6
+    2300066: Objeto_7
+    2300068: Objeto_8
+    2300070: Objeto_9
+    2300072: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    2300074: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    2300076: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    2300078: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    2300080: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    2300082: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    2300084: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    2300086: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    2300088: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    2300090: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    2300092: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    2300094: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    3300000: Objeto_1
+    3300002: Objeto_10
+    3300004: Objeto_11
+    3300006: Objeto_12
+    3300008: Objeto_13
+    3300010: Objeto_14
+    3300012: Objeto_15
+    3300014: Objeto_16
+    3300016: Objeto_17
+    3300018: Objeto_18
+    3300020: Objeto_19
+    3300022: Objeto_2
+    3300024: Objeto_20
+    3300026: Objeto_21
+    3300028: Objeto_22
+    3300030: Objeto_23
+    3300032: Objeto_24
+    3300034: Objeto_25
+    3300036: Objeto_26
+    3300038: Objeto_27
+    3300040: Objeto_28
+    3300042: Objeto_29
+    3300044: Objeto_3
+    3300046: Objeto_30
+    3300048: Objeto_31
+    3300050: Objeto_32
+    3300052: Objeto_33
+    3300054: Objeto_34
+    3300056: Objeto_35
+    3300058: Objeto_36
+    3300060: Objeto_4
+    3300062: Objeto_5
+    3300064: Objeto_6
+    3300066: Objeto_7
+    3300068: Objeto_8
+    3300070: Objeto_9
+    3300072: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    3300074: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    3300076: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    3300078: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    3300080: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    3300082: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    3300084: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    3300086: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    3300088: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    3300090: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    3300092: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    3300094: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    4300000: Objeto_1
+    4300002: Objeto_2
+    4300004: Objeto_3
+    4300006: Objeto_4
+    4300008: Objeto_5
+    4300010: Objeto_6
+    4300012: Objeto_7
+    4300014: Objeto_8
+    4300016: Objeto_9
+    4300018: Objeto_10
+    4300020: Objeto_11
+    4300022: Objeto_12
+    4300024: Objeto_13
+    4300026: Objeto_14
+    4300028: Objeto_15
+    4300030: Objeto_16
+    4300032: Objeto_17
+    4300034: Objeto_18
+    4300036: Objeto_19
+    4300038: Objeto_20
+    4300040: Objeto_21
+    4300042: Objeto_22
+    4300044: Objeto_23
+    4300046: Objeto_24
+    4300048: Objeto_25
+    4300050: Objeto_26
+    4300052: Objeto_27
+    4300054: Objeto_28
+    4300056: Objeto_29
+    4300058: Objeto_30
+    4300060: Objeto_31
+    4300062: Objeto_32
+    4300064: Objeto_33
+    4300066: Objeto_34
+    4300068: Objeto_35
+    4300070: Objeto_36
+    4300072: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    4300074: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    4300076: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    4300078: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    4300080: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    4300082: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    4300084: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    4300086: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    4300088: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    4300090: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    4300092: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    4300094: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuevo material 012
+    second: {fileID: 2100000, guid: 8e3fcf34e37cf5f4e927a9b31c5b7779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuevo material 014
+    second: {fileID: 2100000, guid: 86b1ddf890bcef246807637f3e2bcfce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curb
+    second: {fileID: 2100000, guid: a32240ca2aa06c245ad82d93995f6916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curb_2
+    second: {fileID: 2100000, guid: 4f71d5d25e851814397aab6f2c4adce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foundation_grey_brick
+    second: {fileID: 2100000, guid: 3046fa1cbea51d54fa9d35d5e87d7a6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foundation_grey_brick_2
+    second: {fileID: 2100000, guid: d998e10eada69b444b56f4d68920342e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foundation_grey_brick_3
+    second: {fileID: 2100000, guid: e3983227dad24ee4e82edf98be801375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey
+    second: {fileID: 2100000, guid: 85e97b4e4ede0cf468d1e6d1b285689a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_10
+    second: {fileID: 2100000, guid: d540e8433bf281d4c9a1a417077cbb4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_11
+    second: {fileID: 2100000, guid: 1ed71c7810a388540a85697539e27ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_2
+    second: {fileID: 2100000, guid: f681d53cacda13d4299ee3e2e32a60eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_3
+    second: {fileID: 2100000, guid: 24266ea86c71efd418485c6cedbfb272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_4
+    second: {fileID: 2100000, guid: a7f8c6446b00fd94681a640eaab9ba5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_5
+    second: {fileID: 2100000, guid: b009c4b4a06b7d04497cf5c580a344b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_6
+    second: {fileID: 2100000, guid: a367592e41abb8d48b0a61885e409f2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_7
+    second: {fileID: 2100000, guid: d3b2a56b433c1c54b9502c7af00be8cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_8
+    second: {fileID: 2100000, guid: 18406d73e9b928a4f9d9d02e8bb23736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey_9
+    second: {fileID: 2100000, guid: 6ffae9e74f28ef24cb22cf69fe286bca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parapet
+    second: {fileID: 2100000, guid: 12035279a8ea50146b89b32795b4de3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster_grey
+    second: {fileID: 2100000, guid: 6ffbf2bb898429f498dcf28c8aa297e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster_white
+    second: {fileID: 2100000, guid: 901932d8e551f6a499a9bbe5305fb8b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster_white_2
+    second: {fileID: 2100000, guid: 67215669d48ee9b4a8b02148ca9f8838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plate_white
+    second: {fileID: 2100000, guid: 531186470b5aedd4a84eab1a928a0584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass
+    second: {fileID: 2100000, guid: 31f1be1d3f12bd243aed00ec12350a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass_2
+    second: {fileID: 2100000, guid: 6198b0a4d70689a4f9215896ba0ab6fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass_3
+    second: {fileID: 2100000, guid: aab00fa6318ce334c8bdea6291c4dcdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass_4
+    second: {fileID: 2100000, guid: a5d4bbb450eb3f44f9b6927a9cc94465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_balls_brown
+    second: {fileID: 2100000, guid: d0c75d604d5adcc429d78dd77a7c19fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_balls_brown_2
+    second: {fileID: 2100000, guid: b44c0e77c299c8d4281ec6d58ceb16e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_brown
+    second: {fileID: 2100000, guid: c805a3cb8bcf2a84d8fdb06f7b94da91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_brown_2
+    second: {fileID: 2100000, guid: b82eb59da0814214fa6479aa5a18d049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_brown_3
+    second: {fileID: 2100000, guid: b0656fa7b3c5fdc46a1b9d3d820b7ce0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
