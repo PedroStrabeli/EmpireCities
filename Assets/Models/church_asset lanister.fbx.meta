@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: d59e22dcc1ef66e44b89674fb812e2bf
+timeCreated: 1511377193
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: barath
+    100002: Capa 02
+    100004: Capa 03
+    100006: Capa 04
+    100008: Capa 05
+    100010: //RootNode
+    100012: ciervo
+    100014: dragones
+    100016: lannister
+    100018: leon
+    100020: lobo
+    100022: Objeto_1
+    100024: Objeto_2
+    100026: Objeto_3
+    100028: Objeto_4
+    100030: Objeto_5
+    100032: Objeto_6
+    100034: Objeto_7
+    100036: Predeterminada
+    100038: Predeterminado
+    100040: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    100042: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    100044: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    100046: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    100048: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
+    100050: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    100052: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    100054: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4
+    100056: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    100058: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    100060: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5
+    100062: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    100064: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    100066: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6
+    100068: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    100070: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    100072: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    100074: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    100076: stark
+    100078: targ
+    400000: barath
+    400002: Capa 02
+    400004: Capa 03
+    400006: Capa 04
+    400008: Capa 05
+    400010: //RootNode
+    400012: ciervo
+    400014: dragones
+    400016: lannister
+    400018: leon
+    400020: lobo
+    400022: Objeto_1
+    400024: Objeto_2
+    400026: Objeto_3
+    400028: Objeto_4
+    400030: Objeto_5
+    400032: Objeto_6
+    400034: Objeto_7
+    400036: Predeterminada
+    400038: Predeterminado
+    400040: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    400042: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    400044: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    400046: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    400048: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
+    400050: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    400052: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    400054: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4
+    400056: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    400058: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    400060: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5
+    400062: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    400064: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    400066: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6
+    400068: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    400070: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    400072: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    400074: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    400076: stark
+    400078: targ
+    2300000: Objeto_1
+    2300002: Objeto_2
+    2300004: Objeto_3
+    2300006: Objeto_4
+    2300008: Objeto_5
+    2300010: Objeto_6
+    2300012: Objeto_7
+    2300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    2300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    2300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    2300020: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    2300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    2300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    2300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    2300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    2300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    2300032: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    2300034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    2300036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    3300000: Objeto_1
+    3300002: Objeto_2
+    3300004: Objeto_3
+    3300006: Objeto_4
+    3300008: Objeto_5
+    3300010: Objeto_6
+    3300012: Objeto_7
+    3300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    3300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    3300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    3300020: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    3300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    3300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    3300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    3300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    3300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    3300032: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+    3300034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    3300036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    4300000: Objeto_7
+    4300002: Objeto_1
+    4300004: Objeto_2
+    4300006: Objeto_3
+    4300008: Objeto_4
+    4300010: Objeto_5
+    4300012: Objeto_6
+    4300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    4300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    4300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    4300020: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    4300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    4300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    4300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    4300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    4300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart0
+    4300032: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __5_MeshPart1
+    4300034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart0
+    4300036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __6_MeshPart1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_8
+    second: {fileID: 2100000, guid: 09053591b4b87db4994dfa26c2c25d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuevo material 012
+    second: {fileID: 2100000, guid: 8e3fcf34e37cf5f4e927a9b31c5b7779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuevo material 014
+    second: {fileID: 2100000, guid: 86b1ddf890bcef246807637f3e2bcfce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
