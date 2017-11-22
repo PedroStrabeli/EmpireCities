@@ -17,6 +17,7 @@ namespace Classes
 		public Player(int id) {
 			this.gold = 0;
 			this.id = id;
+			buildingList = new List<Classes.Building>();
 		}
 
 		public int incrementGold() {
@@ -39,23 +40,26 @@ namespace Classes
 			return this.gold;
 		}
 
-		public void addBuilding (string type, int level) {
+		public bool addBuilding (GameObject building, string type, int level) {
 			switch (type) {
 			case "res":
 				currentResNumber++;
-			break;
+				break;
 			case "mil":
 				currentMilNumber++;
-			break;
+				break;
 			case "rel":
 				currentRelNumber++;
-			break;
+				break;
 			} 
-			Building newb = new Building (type, 1);
-			spendGold (newb.cost);
-			//GameManagerSingleton.updateTexts ();
-			buildingList.Add (new Classes.Building (type, level));
-			//spendGold (buildingList.LastOrDefault().cost);
+
+			Building newb = new Building (building, type, 1);
+			if (this.gold >= newb.cost) {
+				spendGold (newb.cost);
+				buildingList.Add (newb);
+				return true;
+			} else
+				return false;
 		}
 	}
 }

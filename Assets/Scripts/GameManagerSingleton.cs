@@ -60,7 +60,15 @@ public class GameManagerSingleton : MonoBehaviour {
 	public void alocateBuilding (GameObject building, string type, int level) {
 		Renderer rend = building.GetComponent<Renderer>();
 		//rend.material = playerMaterialList[this.currentPlayer-1];
-		playerList [currentPlayer - 1].addBuilding(type, level);
+		if (playerList [currentPlayer - 1].addBuilding (building, type, level)) {
+			Debug.Log ("Building built. Yay.");
+			this.eventText.text = "Building built. Yay.";
+			getTexts (playerList);
+		} else {
+			Destroy (building);
+			Debug.Log ("Building destroyed. You're poor");
+			this.eventText.text = "Building destroyed. You're poor";
+		}
 	}
 
 	public void updateTexts() {

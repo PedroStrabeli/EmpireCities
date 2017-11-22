@@ -9,10 +9,12 @@ namespace Classes
 		public int cost;
 		string type;
 		int level;
+		GameObject instance;
 
-		public Building (string type, int level) {
+		public Building (GameObject building, string type, int level) {
 			this.type = type;
 			this.level = level;
+			instance = building;
 			switch (level) {
 			case 1:
 				cost = 4000;
