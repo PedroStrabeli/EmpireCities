@@ -56,7 +56,6 @@ public class BuildingPlacement: MonoBehaviour {
 		}
 	}
 
-
 	public void setItem (GameObject g) {
 		Debug.Log (g.name);
 	}

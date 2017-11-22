@@ -9,8 +9,12 @@ public class ButtonBehavior : MonoBehaviour {
 	private GameObject[] buildingPrefabs;
 
 	private BuildingPlacement bpl;
+	private GameManagerSingleton gms;
 	//public GameObject prefabButton;
-	private GameObject placeableObject;
+	public GameObject placeableObject;
+
+	private int level;
+	private string type;
 
 	Vector3 currentMouseCoord;
 
@@ -34,6 +38,7 @@ public class ButtonBehavior : MonoBehaviour {
 	}
 	private void ReleaseIfClicked() {
 		if (Input.GetMouseButtonDown (0)) {
+			GetComponent<GameManagerSingleton>().alocateBuilding (placeableObject, type, level);
 			placeableObject = null;
 		}
 	}
@@ -75,46 +80,65 @@ public class ButtonBehavior : MonoBehaviour {
 	public void BuildHouse () {
 		//Debug.Log (this.buildings[0]);
 		Debug.Log ("House Built");
+		type = "res";
+		level = 1;
 		HandleBuild (buildingPrefabs [0]);
+
 	}
 
 	public void BuildApto () {
 		Debug.Log ("Apto Built");
+		type = "res";
+		level = 2;
 		//this.bpl.HandleBuild (0);
 	}
 
 	public void BuildCondo () {
 		Debug.Log ("Condo Built");
+		type = "res";
+		level = 3;
 		HandleBuild (buildingPrefabs [0]);
 	}
 
 	public void BuildTower () {
 		Debug.Log ("Tower Built");
+		type = "mil";
+		level = 1;
 		HandleBuild (buildingPrefabs [1]);
 	}
 
 	public void BuildBarracks () {
 		Debug.Log ("Barracks Built");
+		type = "mil";
+		level = 2;
 		HandleBuild (buildingPrefabs [2]);
 	}
 
 	public void BuildCastle () {
 		Debug.Log ("Castle Built");
+		type = "mil";
+		level = 3;
 		HandleBuild (buildingPrefabs [3]);
 	}
 
 	public void BuildParish () {
 		Debug.Log ("Parish Built");
+		type = "rel";
+		level = 1;
 		HandleBuild (buildingPrefabs [0]);
 	}
 
 	public void BuildChurch () {
 		Debug.Log ("Church Built");
+		type = "rel";
+		level = 2;
 		HandleBuild (buildingPrefabs [0]);
 	}
 
 	public void BuildCathedral () {
 		Debug.Log ("Cathedral Built");
+		type = "rel";
+		level = 3;
 		//HandleBuild (buildingPrefabs [0]);
 		HandleBuild (buildingPrefabs [2]);
 	}
@@ -127,11 +151,5 @@ public class ButtonBehavior : MonoBehaviour {
 			Destroy(placeableObject);;
 		}
 	}
-
-	public void setBuildingInGrid(GameObject gameobj, Vector3 mousepos) {
-	
-		//gameobj.transform.position = new Vector3(mousepos.x, mousepos.y, mousepos.z);
-	}
 }
-
 	

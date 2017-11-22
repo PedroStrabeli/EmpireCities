@@ -1,12 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 namespace Classes
 {
 	public class Player {
 		int gold;
 		int id;
+		int totalBuildings;//
+		int currentResNumber = 0;
+		int currentMilNumber = 0;
+		int currentRelNumber = 0;
+		static List<Classes.Building> buildingList;
 
 		public Player(int id) {
 			this.gold = 0;
@@ -31,6 +37,25 @@ namespace Classes
 		public int spendGold(int spent){
 			this.gold -= spent;
 			return this.gold;
+		}
+
+		public void addBuilding (string type, int level) {
+			switch (type) {
+			case "res":
+				currentResNumber++;
+			break;
+			case "mil":
+				currentMilNumber++;
+			break;
+			case "rel":
+				currentRelNumber++;
+			break;
+			} 
+			Building newb = new Building (type, 1);
+			spendGold (newb.cost);
+			//GameManagerSingleton.updateTexts ();
+			buildingList.Add (new Classes.Building (type, level));
+			//spendGold (buildingList.LastOrDefault().cost);
 		}
 	}
 }

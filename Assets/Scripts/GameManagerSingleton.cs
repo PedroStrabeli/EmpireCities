@@ -5,19 +5,24 @@ using UnityEngine.UI;
 
 public class GameManagerSingleton : MonoBehaviour {
 	public int numberOfPlayers = 2;
+
 	private int currentPlayer;
 	public Text playerListText;
 	public Text currentPlayerText;
 	public Text eventText;
 
 	static List<Classes.Player> playerList;
+	[SerializeField]
+	public Material[] playerMaterialList;
 
 	void Start () {
-		playerList = new List<Classes.Player>(2);
+		playerList = new List<Classes.Player>(numberOfPlayers);
 		for (int i = 0; i < numberOfPlayers; i++)
 			playerList.Add (new Classes.Player (i+1));
 		currentPlayer = 1;
 		playerList [currentPlayer - 1].incrementGold ();
+
+
 
 		getTexts (playerList);
 	}
@@ -50,6 +55,16 @@ public class GameManagerSingleton : MonoBehaviour {
 		}
 		currentPlayerText.text = "Vez do jogador " + list[currentPlayer-1].getPlayerId().ToString() + "\nOuro: " + list[currentPlayer-1].getPlayerGold().ToString();
 		playerListText.text = text;
+	}
+
+	public void alocateBuilding (GameObject building, string type, int level) {
+		Renderer rend = building.GetComponent<Renderer>();
+		//rend.material = playerMaterialList[this.currentPlayer-1];
+		playerList [currentPlayer - 1].addBuilding(type, level);
+	}
+
+	public void updateTexts() {
+		getTexts (playerList);
 	}
 }
 
