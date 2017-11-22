@@ -15,7 +15,7 @@ namespace Classes
 		static List<Classes.Building> buildingList;
 
 		public Player(int id) {
-			this.gold = 0;
+			this.gold = 3000;
 			this.id = id;
 			buildingList = new List<Classes.Building>();
 		}
@@ -41,22 +41,21 @@ namespace Classes
 		}
 
 		public bool addBuilding (GameObject building, string type, int level) {
-			switch (type) {
-			case "res":
-				currentResNumber++;
-				break;
-			case "mil":
-				currentMilNumber++;
-				break;
-			case "rel":
-				currentRelNumber++;
-				break;
-			} 
-
 			Building newb = new Building (building, type, 1);
 			if (this.gold >= newb.cost) {
 				spendGold (newb.cost);
 				buildingList.Add (newb);
+				switch (type) {
+				case "res":
+					currentResNumber++;
+					break;
+				case "mil":
+					currentMilNumber++;
+					break;
+				case "rel":
+					currentRelNumber++;
+					break;
+				} 
 				return true;
 			} else
 				return false;
