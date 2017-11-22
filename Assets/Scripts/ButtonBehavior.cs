@@ -82,7 +82,7 @@ public class ButtonBehavior : MonoBehaviour {
 		Debug.Log ("House Built");
 		type = "res";
 		level = 1;
-		HandleBuild (buildingPrefabs [0]);
+		HandleBuild (buildingPrefabs [0 + gms.getPlayerOffset()]);
 
 	}
 
@@ -90,57 +90,56 @@ public class ButtonBehavior : MonoBehaviour {
 		Debug.Log ("Apto Built");
 		type = "res";
 		level = 2;
-		//this.bpl.HandleBuild (0);
+		HandleBuild (buildingPrefabs [1 + gms.getPlayerOffset()]);
 	}
 
 	public void BuildCondo () {
 		Debug.Log ("Condo Built");
 		type = "res";
 		level = 3;
-		HandleBuild (buildingPrefabs [0]);
+		HandleBuild (buildingPrefabs [2 + gms.getPlayerOffset()]);
 	}
 
 	public void BuildTower () {
 		Debug.Log ("Tower Built");
 		type = "mil";
 		level = 1;
-		HandleBuild (buildingPrefabs [1]);
+		HandleBuild (buildingPrefabs [6 + gms.getPlayerOffset()]);
 	}
 
 	public void BuildBarracks () {
 		Debug.Log ("Barracks Built");
 		type = "mil";
 		level = 2;
-		HandleBuild (buildingPrefabs [2]);
+		HandleBuild (buildingPrefabs [7 + gms.getPlayerOffset()]);
 	}
 
 	public void BuildCastle () {
 		Debug.Log ("Castle Built");
 		type = "mil";
 		level = 3;
-		HandleBuild (buildingPrefabs [3]);
+		HandleBuild (buildingPrefabs [8 + gms.getPlayerOffset()]);
 	}
 
 	public void BuildParish () {
 		Debug.Log ("Parish Built");
 		type = "rel";
 		level = 1;
-		HandleBuild (buildingPrefabs [0]);
+		HandleBuild (buildingPrefabs [3 + gms.getPlayerOffset()]);
 	}
 
 	public void BuildChurch () {
 		Debug.Log ("Church Built");
 		type = "rel";
 		level = 2;
-		HandleBuild (buildingPrefabs [0]);
+		HandleBuild (buildingPrefabs [4 + gms.getPlayerOffset()]);
 	}
 
 	public void BuildCathedral () {
 		Debug.Log ("Cathedral Built");
 		type = "rel";
 		level = 3;
-		//HandleBuild (buildingPrefabs [0]);
-		HandleBuild (buildingPrefabs [2]);
+		HandleBuild (buildingPrefabs [5 + gms.getPlayerOffset()]);
 	}
 
 	private void HandleBuild (GameObject placeablePrefab) {

@@ -74,5 +74,8 @@ public class GameManagerSingleton : MonoBehaviour {
 	public void updateTexts() {
 		getTexts (playerList);
 	}
+	public int getPlayerOffset() {
+		return currentPlayer - 1; 
+	}
 }
 
