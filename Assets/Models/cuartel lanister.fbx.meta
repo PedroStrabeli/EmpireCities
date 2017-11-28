@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: bdfdba46872abb64fb7d1030f381f997
-timeCreated: 1511390353
+guid: 0f2b48bc2e61f8d4a9b1a4a12233a057
+timeCreated: 1511824117
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -119,26 +119,76 @@ ModelImporter:
     3300032: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
     3300034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
     3300036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
-    4300000: Cube
-    4300002: Cube.001_Cube.003
-    4300004: Cube.002
+    4300000: Cube.003_Cube.004
+    4300002: Cube.006
+    4300004: Cube.005_Cube.001
     4300006: Cube.004_Cube.005
-    4300008: Cube.005_Cube.001
-    4300010: Cube.006
-    4300012: Cube.003_Cube.004
-    4300014: Objeto_1
-    4300016: Objeto_2
-    4300018: Objeto_3
-    4300020: Objeto_4
-    4300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
-    4300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
-    4300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
-    4300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
-    4300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
-    4300032: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
-    4300034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
-    4300036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    4300008: Cube.002
+    4300010: Cube.001_Cube.003
+    4300012: Cube
+    4300014: Objeto_4
+    4300016: Objeto_3
+    4300018: Objeto_2
+    4300020: Objeto_1
+    4300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart0
+    4300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __4_MeshPart1
+    4300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    4300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    4300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    4300032: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    4300034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    4300036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: 44483ddd7adbb9845bc81de23f104aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_10
+    second: {fileID: 2100000, guid: 4a3c86afcf5cd0c49b2cdf168c207e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_11
+    second: {fileID: 2100000, guid: af145ff1bd163774c9b266614f75a227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_12
+    second: {fileID: 2100000, guid: 5352a10bef85e3f43b5d4752aa7524fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_13
+    second: {fileID: 2100000, guid: 0c497386f33f6be4e84c53677e1bf2fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_14
+    second: {fileID: 2100000, guid: 280c6057cb1f11e4c94f9e52f883c959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_15
+    second: {fileID: 2100000, guid: 65a1a0fb81e182548ac8c15216d31c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_2
+    second: {fileID: 2100000, guid: 128ea0ad945904a47ab45743b3ac893c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_3
+    second: {fileID: 2100000, guid: 3ff00d8a127dd0c40bbdfbd49eb65fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_4
+    second: {fileID: 2100000, guid: 38c010edf9e1a8642b07f75a9723e2af, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -147,13 +197,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Nuevo material 012
-    second: {fileID: 2100000, guid: 8e3fcf34e37cf5f4e927a9b31c5b7779, type: 2}
+      name: Material_6
+    second: {fileID: 2100000, guid: 01a8500e21aadcf4a888770742dcc255, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Nuevo material 014
-    second: {fileID: 2100000, guid: 86b1ddf890bcef246807637f3e2bcfce, type: 2}
+      name: Material_7
+    second: {fileID: 2100000, guid: 7f5c2e532778fe04db172ce091975ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_8
+    second: {fileID: 2100000, guid: 09053591b4b87db4994dfa26c2c25d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_9
+    second: {fileID: 2100000, guid: 09eefc591a959bf4da1c35a873a3606b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
