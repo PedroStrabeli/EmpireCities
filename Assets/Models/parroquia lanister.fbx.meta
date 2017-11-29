@@ -1,132 +1,149 @@
 fileFormatVersion: 2
-guid: d210da5144f76f54690350a353558998
-timeCreated: 1511822515
+guid: 8f044e87bf26c9e4f9d794f47e0f9cce
+timeCreated: 1511916434
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: barath
-    100002: Capa 02
-    100004: Capa 03
-    100006: Capa 04
-    100008: Capa 05
-    100010: ciervo
-    100012: dragones
-    100014: lannister
-    100016: leon
-    100018: lobo
-    100020: Objeto_1
-    100022: Objeto_2
-    100024: Objeto_3
-    100026: Objeto_4
-    100028: //RootNode
-    100030: Predeterminada
-    100032: Predeterminado
-    100034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
-    100036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
-    100038: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
-    100040: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
-    100042: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
-    100044: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
-    100046: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
-    100048: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
-    100050: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
-    100052: stark
-    100054: targ
+    100002: Building
+    100004: Capa 02
+    100006: Capa 03
+    100008: Capa 04
+    100010: Capa 05
+    100012: ciervo
+    100014: Door
+    100016: dragones
+    100018: EastWindow
+    100020: Front_1
+    100022: lannister
+    100024: leon
+    100026: lobo
+    100028: NorthEastWindow
+    100030: Objeto_1
+    100032: Objeto_2
+    100034: Objeto_3
+    100036: //RootNode
+    100038: Predeterminada
+    100040: Predeterminado
+    100042: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    100044: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    100046: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    100048: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    100050: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
+    100052: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    100054: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    100056: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    100058: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    100060: RoundWindow
+    100062: SouthEastWindow
+    100064: stark
+    100066: StoneWall
+    100068: targ
+    100070: WestWindow
     400000: barath
-    400002: Capa 02
-    400004: Capa 03
-    400006: Capa 04
-    400008: Capa 05
-    400010: ciervo
-    400012: dragones
-    400014: lannister
-    400016: leon
-    400018: lobo
-    400020: Objeto_1
-    400022: Objeto_2
-    400024: Objeto_3
-    400026: Objeto_4
-    400028: //RootNode
-    400030: Predeterminada
-    400032: Predeterminado
-    400034: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
-    400036: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
-    400038: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
-    400040: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
-    400042: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
-    400044: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
-    400046: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
-    400048: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
-    400050: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
-    400052: stark
-    400054: targ
-    2300000: Objeto_1
-    2300002: Objeto_2
-    2300004: Objeto_3
-    2300006: Objeto_4
-    2300008: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
-    2300010: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
-    2300012: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
-    2300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
-    2300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
-    2300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
-    3300000: Objeto_1
-    3300002: Objeto_2
-    3300004: Objeto_3
-    3300006: Objeto_4
-    3300008: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
-    3300010: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
-    3300012: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
-    3300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
-    3300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
-    3300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
-    4300000: Objeto_4
-    4300002: Objeto_3
-    4300004: Objeto_2
-    4300006: Objeto_1
-    4300008: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
-    4300010: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
-    4300012: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
-    4300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
-    4300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
-    4300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    400002: Building
+    400004: Capa 02
+    400006: Capa 03
+    400008: Capa 04
+    400010: Capa 05
+    400012: ciervo
+    400014: Door
+    400016: dragones
+    400018: EastWindow
+    400020: Front_1
+    400022: lannister
+    400024: leon
+    400026: lobo
+    400028: NorthEastWindow
+    400030: Objeto_1
+    400032: Objeto_2
+    400034: Objeto_3
+    400036: //RootNode
+    400038: Predeterminada
+    400040: Predeterminado
+    400042: Rhinoceros Binary STL ( Oct 24 2012 )__                                       _
+    400044: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2
+    400046: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    400048: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    400050: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3
+    400052: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    400054: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    400056: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    400058: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    400060: RoundWindow
+    400062: SouthEastWindow
+    400064: stark
+    400066: StoneWall
+    400068: targ
+    400070: WestWindow
+    2300000: Door
+    2300002: EastWindow
+    2300004: Front_1
+    2300006: NorthEastWindow
+    2300008: Objeto_1
+    2300010: Objeto_2
+    2300012: Objeto_3
+    2300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    2300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    2300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    2300020: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    2300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    2300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    2300026: RoundWindow
+    2300028: SouthEastWindow
+    2300030: StoneWall
+    2300032: WestWindow
+    3300000: Door
+    3300002: EastWindow
+    3300004: Front_1
+    3300006: NorthEastWindow
+    3300008: Objeto_1
+    3300010: Objeto_2
+    3300012: Objeto_3
+    3300014: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    3300016: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    3300018: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    3300020: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
+    3300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    3300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    3300026: RoundWindow
+    3300028: SouthEastWindow
+    3300030: StoneWall
+    3300032: WestWindow
+    4300000: Front_1
+    4300002: WestWindow
+    4300004: NorthEastWindow
+    4300006: EastWindow
+    4300008: SouthEastWindow
+    4300010: Door
+    4300012: RoundWindow
+    4300014: StoneWall
+    4300016: Objeto_1
+    4300018: Objeto_2
+    4300020: Objeto_3
+    4300022: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart0
+    4300024: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
+    4300026: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
+    4300028: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+    4300030: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart0
+    4300032: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __3_MeshPart1
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material_1
-    second: {fileID: 2100000, guid: 44483ddd7adbb9845bc81de23f104aca, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material_2
-    second: {fileID: 2100000, guid: 128ea0ad945904a47ab45743b3ac893c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material_3
-    second: {fileID: 2100000, guid: 3ff00d8a127dd0c40bbdfbd49eb65fa3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Material_4
-    second: {fileID: 2100000, guid: 38c010edf9e1a8642b07f75a9723e2af, type: 2}
+    second: {fileID: 2100000, guid: 97487db89c51fac4499d8d01b99c422d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material_5
-    second: {fileID: 2100000, guid: 9aa9b368103067d48b52973e06bf2c6d, type: 2}
+      name: Nuevo material 012
+    second: {fileID: 2100000, guid: b93182da0c0f1fd498c97654174a0b2f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material_6
-    second: {fileID: 2100000, guid: 01a8500e21aadcf4a888770742dcc255, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Nuevo material 002
-    second: {fileID: 2100000, guid: 7ec025fe9795cc548806cede10f667b6, type: 2}
+      name: Nuevo material 014
+    second: {fileID: 2100000, guid: 6edab493ecb052441b02c39d972d87a1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

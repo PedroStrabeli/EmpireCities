@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 0c9eb44864739ad4fbdba6018a22c0de
-timeCreated: 1511372550
+guid: f909abd1fbdc297419c7bd8f3df10438
+timeCreated: 1511917076
 licenseType: Free
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: barath
     100002: //RootNode
@@ -3659,10 +3659,27 @@ ModelImporter:
     4301442: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __MeshPart1
     4301444: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart0
     4301446: Rhinoceros Binary STL ( Oct 24 2012 )__                                       __2_MeshPart1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_4
+    second: {fileID: 2100000, guid: 97487db89c51fac4499d8d01b99c422d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuevo material 012
+    second: {fileID: 2100000, guid: b93182da0c0f1fd498c97654174a0b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nuevo material 014
+    second: {fileID: 2100000, guid: 6edab493ecb052441b02c39d972d87a1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -3675,6 +3692,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
