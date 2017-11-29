@@ -10,12 +10,15 @@ public class GameManagerSingleton : MonoBehaviour {
 	public Text playerListText;
 	public Text currentPlayerText;
 	public Text eventText;
+	Vector3 selectionStart;
+	List<Collider> selectables;
 
 	static List<Classes.Player> playerList;
 	[SerializeField]
 	public Material[] playerMaterialList;
 
 	void Start () {
+		selectables = new List<Collider> ();
 		playerList = new List<Classes.Player>(numberOfPlayers);
 		for (int i = 0; i < numberOfPlayers; i++)
 			playerList.Add (new Classes.Player (i+1));
@@ -29,7 +32,33 @@ public class GameManagerSingleton : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (Input.GetMouseButtonDown (0)) {
+			Ray ray = Camera.main.ScreenPointToRay (Input.mousePosition);
+			var unitLayerMask = 1 << 10;
+			RaycastHit hitInfo;
+			Ray rayGround = Camera.main.ScreenPointToRay (Input.mousePosition);
+			RaycastHit hitGround;
+			var groundLayerMask = 1 << 8;
+			if (Physics.Raycast (rayGround, out hitGround, Mathf.Infinity, groundLayerMask)) {
+				selectionStart = hitGround.point;
+			}
+			if (Physics.Raycast (ray, out hitInfo, Mathf.Infinity, unitLayerMask)) {
+				clearSelectables ();
+				hitInfo.collider.GetComponent<Selectable> ().selected = true;
+				selectables.Add (hitInfo.collider);
+			}
+		}
+		if (Input.GetMouseButton (0)) {
+			//do Selection Box
+		} else
+			clearSelectables ();
+	}
+
+	private void clearSelectables() {
+		foreach (Collider i in selectables) {
+			i.GetComponent<Selectable>().selected = false;
+		}
+		selectables.Clear ();
 	}
 
 	public void endTurn() {
