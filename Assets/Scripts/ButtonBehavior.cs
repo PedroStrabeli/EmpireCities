@@ -20,9 +20,11 @@ public class ButtonBehavior : MonoBehaviour {
 
 	void Start() {
 		bpl = GetComponent<BuildingPlacement>();
+		gms = GetComponent<GameManagerSingleton> ();
 		//house = (GameObject)Resources.Load("Assets/Prefabs/house");
 		//cube.SetActive(false);
 		//bpl.setItem(house);
+		Debug.Log (gms.getPlayerOffset());
 	}
 
 

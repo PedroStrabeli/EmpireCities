@@ -25,8 +25,6 @@ public class GameManagerSingleton : MonoBehaviour {
 		currentPlayer = 1;
 		playerList [currentPlayer - 1].incrementGold ();
 
-
-
 		getTexts (playerList);
 	}
 	
@@ -40,13 +38,13 @@ public class GameManagerSingleton : MonoBehaviour {
 			RaycastHit hitGround;
 			var groundLayerMask = 1 << 8;
 			if (Physics.Raycast (rayGround, out hitGround, Mathf.Infinity, groundLayerMask)) {
-				selectionStart = hitGround.point;
+				// selectionStart = hitGround.point;
 			}
 			if (Physics.Raycast (ray, out hitInfo, Mathf.Infinity, unitLayerMask)) {
 				clearSelectables ();
 				hitInfo.collider.GetComponent<Selectable> ().selected = true;
 				selectables.Add (hitInfo.collider);
-			}
+				Debug.Log (selectables.Count);			}
 		}
 		if (Input.GetMouseButton (0)) {
 			//do Selection Box
